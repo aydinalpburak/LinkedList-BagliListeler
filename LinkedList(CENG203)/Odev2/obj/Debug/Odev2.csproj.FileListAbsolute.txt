@@ -1,0 +1,9 @@
+C:\Users\burak\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\burak\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\burak\source\repos\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\burak\source\repos\Odev2\Odev2\obj\Debug\Odev2.pdb

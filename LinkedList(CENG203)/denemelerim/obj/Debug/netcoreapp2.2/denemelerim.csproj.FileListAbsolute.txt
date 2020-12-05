@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\Odev2\denemelerim\bin\Debug\netcoreapp2.2\denemelerim.deps.json
+C:\Users\burak\source\repos\Odev2\denemelerim\bin\Debug\netcoreapp2.2\denemelerim.runtimeconfig.json
+C:\Users\burak\source\repos\Odev2\denemelerim\bin\Debug\netcoreapp2.2\denemelerim.runtimeconfig.dev.json
+C:\Users\burak\source\repos\Odev2\denemelerim\bin\Debug\netcoreapp2.2\denemelerim.dll
+C:\Users\burak\source\repos\Odev2\denemelerim\bin\Debug\netcoreapp2.2\denemelerim.pdb
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.AssemblyInfo.cs
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.dll
+C:\Users\burak\source\repos\Odev2\denemelerim\obj\Debug\netcoreapp2.2\denemelerim.pdb
